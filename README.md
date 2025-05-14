@@ -21,3 +21,13 @@ Capturas de Integrante 2:
 ![image](https://github.com/user-attachments/assets/6a6dc348-309c-4643-97c4-910bc74df283)
 ![image](https://github.com/user-attachments/assets/5bc70169-d0c1-47f7-8294-5f06c15ad4b7)
 
+Capturas de  integrante 3:
+![integrante 3 fallo 1](https://github.com/user-attachments/assets/7d674bc2-3f9d-41ef-9ea3-a11309a53b39)
+
+![integrante 3 conflictos](https://github.com/user-attachments/assets/d09f57d2-599e-4727-8d4c-e35fb8652a2f)
+
+![integrante 3 conflicto resuelto](https://github.com/user-attachments/assets/39d7f1cc-650a-4513-ace3-0a7f1212e2ee)
+
+
+
+
